@@ -42,20 +42,17 @@ se tiene que unicar en (r) main
 
 
 
-paginas
+# paginas
 
 ## (student1)
--------------
-#### carreras (2 personas con 10 commits)
+#### carreras (2 personas con 4 commits)
 
 ## (student2)
--------------
-#### programas estudio (2 personas con 10 commits)
+#### programas estudio (2 personas con 4 commits)
 
 
 ## (student3)
--------------
-#### registrate (2 personas con 10 commits)
+#### registrate (2 personas con 4 commits)
 
 
 
