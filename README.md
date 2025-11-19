@@ -45,18 +45,20 @@ se tiene que unicar en (r) main
 paginas
 
 (student1)
-carreras
-========
+-------------
+# carreras (2 personas con 10 commits)
 
 (student2)
-programas estudio
-========
+-------------
+# programas estudio (2 personas con 10 commits)
 
 
 (student3)
-registrate 
-==========
+-------------
+# registrate (2 personas con 10 commits)
+
 
 
 
 la rama principal main actualizada
+--------------
