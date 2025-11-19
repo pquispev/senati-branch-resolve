@@ -39,3 +39,24 @@ ramas
 * student3
 
 se tiene que unicar en (r) main
+
+
+
+paginas
+
+(student1)
+carreras
+========
+
+(student2)
+programas estudio
+========
+
+
+(student3)
+registrate 
+==========
+
+
+
+la rama principal main actualizada
