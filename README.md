@@ -44,18 +44,18 @@ se tiene que unicar en (r) main
 
 paginas
 
-(student1)
+## (student1)
 -------------
-# carreras (2 personas con 10 commits)
+#### carreras (2 personas con 10 commits)
 
-(student2)
+## (student2)
 -------------
-# programas estudio (2 personas con 10 commits)
+#### programas estudio (2 personas con 10 commits)
 
 
-(student3)
+## (student3)
 -------------
-# registrate (2 personas con 10 commits)
+#### registrate (2 personas con 10 commits)
 
 
 
